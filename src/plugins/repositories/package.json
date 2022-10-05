@@ -1,10 +1,10 @@
 {
   "name": "repositories",
   "version": "0.0.0",
-  "description": "This is the description of the plugin.",
+  "description": "Uma lista dos repositorios do curso.",
   "strapi": {
-    "name": "repositories",
-    "description": "Description of Repositories plugin",
+    "name": "Repositories",
+    "description": "Uma lista dos repositorios do curso.",
     "kind": "plugin",
     "displayName": "Repositories"
   },
