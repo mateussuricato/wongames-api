@@ -16,7 +16,9 @@
     "@strapi/plugin-i18n": "4.4.0",
     "@strapi/plugin-users-permissions": "4.4.0",
     "@strapi/strapi": "4.4.0",
+    "jsdom": "^20.0.1",
     "pg": "8.6.0",
+    "slugify": "^1.6.5",
     "strapi-plugin-entity-relationship-chart": "^4.1.0"
   },
   "author": {
